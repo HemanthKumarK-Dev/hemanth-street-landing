@@ -1,0 +1,215 @@
+body{
+    height: 100vh;
+    margin: 5px 80px;
+    font-family: "Orbitron", sans-serif;
+  
+
+}
+
+
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.list{
+    list-style: none;
+    display: flex;
+    padding: 20px 20px;
+    
+
+}
+
+.list-item{
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    padding: 0px 20px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top:15px;
+
+
+}
+
+.list-item:nth-child(1){
+    text-decoration: underline;
+    font-weight: 800;
+    font-size: 18px ;
+
+}
+
+
+
+
+
+
+
+.button-group{
+    display: flex;
+    align-items: center;
+   
+}
+
+.nav-button{
+    border: solid;
+    background-color: transparent;
+    font-family: "Poppins", sans-serif;
+    margin-left: 20px;
+    padding: 4px 40px 4px 40px;
+    font-size: 18px;
+    border-radius: 18px;
+}
+
+
+.square{
+    position:absolute;
+    bottom:1px;
+    left: 4.5%;
+    z-index: -1;
+}
+
+
+.hero-container{
+    display: flex;
+    position: relative;
+
+
+   }
+   
+div>div>img{
+    width: 400px;
+    margin-top: 80px;
+}
+
+.star{
+    position: absolute;
+    top:7%;
+    right:3.5%;
+}
+
+
+.globe{
+    position: absolute;
+    left:50%;
+
+
+
+}
+
+
+.hero-container-right{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ 
+}
+
+.hero-heading{
+font-size: 50px;
+font-family: "Orbitron" ,sans-serif;
+margin-top: 140px;
+margin-left: 100px;
+}
+
+.hero-description{
+    font-family: "Poppins" ,sans-serif;
+    text-align: center;
+    margin-bottom: 60px;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 13px;
+    
+
+    
+}
+
+.button-email{
+    border-color: rgb(69,69,69);
+    color: rgb(69,69,69);
+    font-weight: 500;
+    background-color: transparent;
+    padding-top: 3px;
+    padding-left: 13px;
+    padding-bottom: 3px;
+    padding-right: 13px;
+    font-size: 21px;
+    border-radius: 15px;
+    font-family: "Orbitron" ,sans-serif;
+}
+
+.button-join{
+    color: #ffffff;
+    font-weight: 500;
+    background-color: #000000;
+    padding-top: 3px;
+    padding-left: 13px;
+    padding-bottom: 3px;
+    padding-right: 13px;
+    font-size: 21px;
+    border-radius: 15px;
+    font-family: "Orbitron" ,sans-serif;
+}
+
+.contact-heading{
+    /* display: flex; */
+    font-family: "Poppins" ,sans-serif;
+ 
+    /* align-items: center;
+    justify-content: center; */
+    font-weight: 400;
+    font-size: 24px;
+    color:#1d1d1d;
+    margin-bottom: 16px;
+    position: relative;
+    bottom: 30px;
+    left :100px;
+}
+
+.icons{
+    position: relative;  
+    font-weight: 400;
+    font-size: 10px;
+    color:#cccccc;
+    left :50px;
+    bottom:40px;
+}
+
+.icons>span>img{
+    padding: 0 10px;
+}
+
+          
+
+.hero-container-right>div:last-child{
+    margin-top:80px;
+    margin-left: 0px;
+    width: 40%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
