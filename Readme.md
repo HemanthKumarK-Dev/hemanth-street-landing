@@ -13,6 +13,6 @@ Learnings
 Time Taken to complete
 - 9 hours
 
-[Live Link](https://hemanth-street-style.netlify.app)
+[DEMO](https://hemanth-street-style.netlify.app)
 
 ![simple-badge](https://img.shields.io/badge/HTML-CSS-green)
